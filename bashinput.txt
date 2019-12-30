@@ -1,5 +1,0 @@
-if [ $# -eq 0 ]; then
-  echo "1" > python_inputs.txt
-else
-  echo "$1" > python_inputs.txt
-fi
